@@ -52,7 +52,7 @@ int ascendingOrder(){
   return 0;
 }
 SetUnion(){
-  Set<int>setA={2,3,4,5,7,9,};
+  Set<int>setA={2,3,4,5,7,9,};//set
   Set<int>setB={2,3,1,6,8,};
   Set<int>result=setA.union(setB);
   print(result);
@@ -65,3 +65,4 @@ diffrentset(){
   print(result);
   return 0;
 }
+
