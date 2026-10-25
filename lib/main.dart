@@ -9,7 +9,6 @@ Everagenumer();
 AddEvarageNumber();
 Reverstlist();
 SecendlargestNumber();
-
 }
 int findLargestSmallest(){
   List<int>number=[12,34,56,34,6,787,32,2];
@@ -23,7 +22,6 @@ int findLargestSmallest(){
       smallest=num;
     }
   }
-
 print("The Largest Number is =$largest");
 print("The Largest Number is =$smallest");
   return 0;
