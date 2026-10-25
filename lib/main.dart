@@ -121,6 +121,6 @@ SecendlargestNumber(){
         secondlargest =num;
       }
     }
-    print("The second largest Number =$secondlargest"); //
+    print("The second largest Number =$secondlargest");
   }
 }
